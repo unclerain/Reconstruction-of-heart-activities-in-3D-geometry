@@ -26,16 +26,4 @@ Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once
 ![reuslts](https://user-images.githubusercontent.com/71365210/189991153-5983f64a-4b90-42d7-85a8-232c8d0f3711.jpg)
 
 
-## Using this prototype
-1. Android Studio Required
-  - ext.kotlin_version = '1.3.60'
-  - com.android.tools.build:gradle:3.5.2
-  - com.google.ar.sceneform:plugin:1.15.0'
-2. Install Emulator (using Pixel 3 API 27)
-  - Start Pixel 3 Emulator-> Extended Controls-> Setting-> OpenGL ES API Level -> Rendered Maximum
-
-
-
-## License
-Copyright 2020 
 
