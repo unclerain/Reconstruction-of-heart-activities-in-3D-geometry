@@ -1,10 +1,14 @@
 # Heart_disease_DeepLearning
 # ECGI_Monitoring
-We develop a novel L_0 regularization using sparse representation for effective reconstruction of epicardial electrical potential.
+a novel L_0 regularization using sparse representation is developed for effective reconstruction of epicardial electrical potential.
+Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once (YOLO) image-recognition architecture is applied for heart diseasr detection
 
 <img width="333" alt="Screen Shot 2020-10-07 at 12 33 22 PM" src="https://user-images.githubusercontent.com/71365210/95367446-c6ebd300-08a2-11eb-9f72-9cebb34d32ee.png">
 
 ![image](https://user-images.githubusercontent.com/71365210/189986810-95d0aad2-4a4d-4a19-9d5f-bf94bf85f9ed.png)
+
+
+![simulation results](https://user-images.githubusercontent.com/71365210/189988480-e6a2f719-5d3b-4317-904f-f59f5ac408d2.jpg)
 
 ## Features
 - Signup/Login Interface
