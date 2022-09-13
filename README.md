@@ -1,4 +1,4 @@
-# Reconstruction of heart activity in 3D geometry_and_Heart_disease_DeepLearning
+# Reconstruction of heart activities in 3D geometry
 
 A novel low-rank and joint-sparse decomposition (LJSD) is developed for effective reconstruction of epicardial electrical potential.
 Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once (YOLO) image-recognition architecture is applied for heart diseasr detection
