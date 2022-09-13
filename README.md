@@ -14,7 +14,6 @@ Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once
 
 ## Experiments on realistic data
 - Realistic 3D heart-torso geometry
-
 ![realistic geometry](https://user-images.githubusercontent.com/71365210/189990123-14b2da7e-f553-45d0-9080-057f3ee7b4c2.jpg)
 
 - (a) three views of 192 electrodes matrix covering torso surface
