@@ -3,8 +3,6 @@
 a novel low-rank and joint-sparse decomposition (LJSD) is developed for effective reconstruction of epicardial electrical potential.
 Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once (YOLO) image-recognition architecture is applied for heart diseasr detection
 
-<img width="333" alt="Screen Shot 2020-10-07 at 12 33 22 PM" src="https://user-images.githubusercontent.com/71365210/95367446-c6ebd300-08a2-11eb-9f72-9cebb34d32ee.png">
-
 
 ## Simulation on synthetic data
 - (a) Geometric 3D representation of the concentric spheres; 
