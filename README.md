@@ -1,5 +1,5 @@
 # Reconstruction of heart activities in 3D geometry
-Python code for the paper: Shu, Yu, Wei Dan, and Changqing Cheng. "Spatiotemporal regularization in effective reconstruction of epicardial potential." 2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2021.
+Python code for the paper: Shu, Yu, Wei Dan, and Changqing Cheng. "Spatiotemporal regularization in effective reconstruction of epicardial potential." 2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2021. DOI: 10.1109/BHI50953.2021.9508525
 
 A novel low-rank and joint-sparse decomposition (LJSD) is developed for effective reconstruction of epicardial electrical potential.
 Ensemble Empirical Mode Decomposition algorithm (EEMD) with a You-Only-Look-Once (YOLO) image-recognition architecture is applied for heart diseasr detection
